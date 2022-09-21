@@ -1,2 +1,2 @@
-# skateparkmaps.com
-Maps for skateparks
+# goldenageskateparks.com
+The first skateparks
